@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ismael </h1>
-<h3 align="center">Programming ❤️ Video Games ❤️ Anime Lover</h3>
+<h3 align="center">Programming ❤️ Video Gamer ❤️ Anime Lover</h3>
 
 ## 💫 About Me:
 
@@ -9,10 +9,9 @@
 - 🌱 I’m currently learning Django/Python
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@LilCode30)
 - 🤔 I’m looking for help with Content Creation
-- 📫 How to reach me: Check my social links
 - ⚡ Fun fact: I listen to musics 24h/24
 
-## 💻 Tech Stack I Currently use
+## 💻 Tech Stack 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,3 +37,10 @@
   
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dereal.ismael/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loko-ismael/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@LilCode30) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/LilCode30) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AQjqamZm45) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://ca.pinterest.com/lokoismael30/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/dereal_ismael) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@dereal.ism4el)
+
+
+ <div align="center">
+
+### Being Nice Is Easy | Here To Spread Love ❤️
+
+</div>
