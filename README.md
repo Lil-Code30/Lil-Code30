@@ -4,12 +4,7 @@
 
 ## 💫 About Me:
 
-- 😄 Pronouns: He/His
-- 🔭 I’m currently building a full [ eCommerce Website ](https://github.com/Lil-Code30/django-ecommerce).
-- 🌱 I’m currently learning Django/Python
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@LilCode30)
-- 🤔 I’m looking for help with Content Creation
-- ⚡ Fun fact: I listen to musics 24h/24
+- 🤔 
 
 ## 💻 Tech Stack 
 
