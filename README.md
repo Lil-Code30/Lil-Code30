@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-- 🤔 
+- Comming soon ... 
 
 ## 💻 Tech Stack 
 
