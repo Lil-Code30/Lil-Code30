@@ -4,7 +4,9 @@
 
 ## 💫 About Me:
 
-- Coming soon ... 
+🚀 Développeur Full Stack en devenir | 🎥 Créateur de contenu tech | 📚 Explorateur du code
+
+Je documente mon parcours d’apprentissage en développement web, en repartant de zéro, et je partage mes progrès sur YouTube et Twitter.
 
 ## 💻 Tech Stack 
 
