@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="img/bg.gif" alt="background image" width="100%" height="350">
+</div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ismael </h1>
 <h3 align="center">Programming ❤️ Video Games ❤️ Anime </h3>
 
