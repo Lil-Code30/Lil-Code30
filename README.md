@@ -2,13 +2,13 @@
   <img src="img/bg.gif" alt="background image" width="100%" height="300">
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ismael </h1>
-<h3 align="center">Programming ❤️ Video Games ❤️ Anime </h3>
+<h3 align="center">I ❤️ Programming, Video Games and Anime </h3>
 
 ## 💫 About Me:
 
-🚀 Aspiring Full Stack Developer | 🎥 Tech Content Creator | 📚 Code Explorer
+🚀 Aspiring Full Stack Developer | 📚 Code Explorer
 
-I'm documenting my web development learning journey from scratch and sharing my progress on YouTube and Twitter.
+I'm documenting my learning journey from scratch and sharing my progress on [YouTube](https://www.youtube.com/@licode30).
 
 ## 💻 Tech Stack 
 
