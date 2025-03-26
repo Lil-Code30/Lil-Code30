@@ -8,7 +8,7 @@
 
 🚀 Aspiring Full Stack Developer | 📚 Code Explorer
 
-I'm documenting my learning journey from scratch and sharing my progress on [YouTube](https://www.youtube.com/@licode30).
+I'm documenting my learning journey from scratch and sharing my progress on [YouTube](https://www.youtube.com/@licode30) and [Twitch](https://www.twitch.tv/dereal_ismael).
 
 ## 💻 Tech Stack 
 
