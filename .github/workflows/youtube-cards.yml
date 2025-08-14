@@ -4,6 +4,10 @@ on:
     # Runs every 6 hours to avoid excessive API usage
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/youtube-cards.yml"
 
 jobs:
   build:
@@ -33,9 +37,9 @@ jobs:
           theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
           theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
 
-          # Optional: Add YouTube API key for enhanced features (duration, better rate limits)
-          # youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          # show_duration: true
+          # YouTube API key for enhanced features (duration, better rate limits)
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
 
           # Commit settings
           commit_message: "📺 Update latest YouTube videos"
