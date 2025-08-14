@@ -1,0 +1,43 @@
+name: GitHub Readme YouTube Cards
+on:
+  schedule:
+    # Runs every 6 hours to avoid excessive API usage
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          # REQUIRED: Replace with your YouTube channel ID
+          channel_id: UC9jaSQOM2F8kGZXd3lld8_w
+
+          # Video display settings
+          max_videos: 6
+          max_title_lines: 2
+
+          # Card styling
+          card_width: 250
+          border_radius: 5
+
+          # Dark theme colors (matches GitHub dark mode)
+          background_color: "#0d1117"
+          title_color: "#ffffff"
+          stats_color: "#dedede"
+
+          # Light theme support
+          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
+
+          # Optional: Add YouTube API key for enhanced features (duration, better rate limits)
+          # youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          # show_duration: true
+
+          # Commit settings
+          commit_message: "📺 Update latest YouTube videos"
+          author_name: "YouTube Bot"
+          author_email: "youtube-bot@users.noreply.github.com"
