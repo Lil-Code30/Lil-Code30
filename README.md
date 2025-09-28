@@ -6,7 +6,12 @@
 
 ## 💫 About Me:
 
- Full Stack Developer | 📚 Code Explorer | Streamer 
+👨🏾‍💻 Full Stack Developer | 📚 Code Explorer | Streamer <br/>
+👀 Main focus on Backend architecture<br/>
+🗒️ I'm currently learning **c#** and **.Net technologies**<br/>
+⚒️ I'm currently building some academic tools like :<br/>
+       - [Timora](https://github.com/DripCode-Studio/timora_frontend) : a smart student-friendly calendar and planning tool with Google Calendar integration.<br/>
+       - [Academic XP Tracker](https://github.com/Lil-Code30/Academic-XP-Tracker) : a web app that tracks my Bachelor in Computer Science journey.<br/>
 
 Learning, Building, and making cool web stuff on [YouTube](https://www.youtube.com/@licode30) and [Twitch](https://www.twitch.tv/dereal_ismael).
 
