@@ -4,6 +4,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ismael </h1>
 <h3 align="center">I ❤️ Programming, Video Games and Anime </h3>
 
+<p align="center">Learning, Building, and making cool web stuff on <a href="https://www.youtube.com/@licode30" target="_blank">YouTube</a> and <a href="https://www.twitch.tv/dereal_ismael" target="_blank">Twitch</a>.</p>
+
 ## 💫 About Me:
 
 👨🏾‍💻 Full Stack Developer | 📚 Code Explorer | Streamer <br/>
@@ -13,7 +15,10 @@
        - [Timora](https://github.com/DripCode-Studio/timora_frontend) : a smart student-friendly calendar and planning tool with Google Calendar integration.<br/>
        - [Academic XP Tracker](https://github.com/Lil-Code30/Academic-XP-Tracker) : a web app that tracks my Bachelor in Computer Science journey.<br/>
 
-Learning, Building, and making cool web stuff on [YouTube](https://www.youtube.com/@licode30) and [Twitch](https://www.twitch.tv/dereal_ismael).
+<p>💻 All my projects here : <a href="https://ismael-projects-page.vercel.app/" target="_blank">Ismael's Project Page.</a></p>
+
+
+
 
 ## 🧰 Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,mongodb,postgres,git,vscode)](https://skillicons.dev)
