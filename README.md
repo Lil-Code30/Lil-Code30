@@ -13,7 +13,7 @@
 🗒️ I'm currently learning **c#** and **.Net technologies**<br/>
 ⚒️ I'm currently building some academic tools like :<br/>
        - [Timora](https://github.com/DripCode-Studio/timora_frontend) : a smart student-friendly calendar and planning tool with Google Calendar integration.<br/>
-       <!-- - [Academic XP Tracker](https://github.com/Lil-Code30/Academic-XP-Tracker) : a web app that tracks my Bachelor in Computer Science journey.<br/> -->
+       - [Academic XP Tracker](https://github.com/Lil-Code30/academic-xp-tracker_frontend) : a web app that tracks my Bachelor in Computer Science journey.<br/> 
 
 <p>💻 All my projects here : <a href="https://ismael-projects-page.vercel.app/" target="_blank">Ismael's Project Page.</a></p>
 
