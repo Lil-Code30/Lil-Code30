@@ -10,12 +10,12 @@
 
 👨🏾‍💻 Full Stack Developer | 📚 Code Explorer | Streamer <br/>
 👀 Main focus on Backend architecture : [10x Backend Engineer](https://github.com/10x-Backend-Engineer)<br/>
-🗒️ I'm currently learning **c#**, **.Net technologies** and **DevOps**<br/>
+🗒️ I'm currently learning **C#**, **.Net technologies** and **DevOps**<br/>
 ⚒️ No main project for the moment, 
 
 <!--⚒️ I'm currently building some academic tools like :<br/> -->
-      <!-- - [Timora](https://github.com/DripCode-Studio/timora_frontend) : a smart student-friendly calendar and planning tool with Google Calendar integration.<br/> -->
-      <!-- - [Academic XP Tracker](https://github.com/acadxp/academic-xp-tracker_frontend) : a web app that tracks my Bachelor in Computer Science journey.<br/> -->
+<!-- - [Timora](https://github.com/DripCode-Studio/timora_frontend) : a smart student-friendly calendar and planning tool with Google Calendar integration.<br/> -->
+<!-- - [Academic XP Tracker](https://github.com/acadxp/academic-xp-tracker_frontend) : a web app that tracks my Bachelor in Computer Science journey.<br/> -->
 
 <p>💻 All my projects here : <a href="https://ismael-projects-page.vercel.app/" target="_blank">Ismael's Project Page.</a></p>
 
