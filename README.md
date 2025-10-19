@@ -10,6 +10,7 @@
 
 👨🏾‍💻 Full Stack Developer | 📚 Code Explorer | Streamer <br/>
 👀 Main focus on Backend architecture : [10x Backend Engineer](https://github.com/10x-Backend-Engineer)<br/>
+Pov: I have more burnouts when coding with AI assistance. so i just decided to not integrate it on my IDE (2025-10-19:12:31 AM), i use it externally for the moment 
 🗒️ I'm currently learning **C#**, **.Net technologies** and **DevOps**<br/>
 ⚒️ No main project for the moment, 
 
