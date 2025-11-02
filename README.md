@@ -28,4 +28,3 @@
   <a href="https://github.com/Lil-Code30/github-readme-stats"><img alt="Ismael Loko's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-Code30&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
-> Pov: I have more burnouts when coding with AI assistance. so i just decided to not integrate it on my IDE (2025-10-19:12:31 AM), And just use it as  chatbot for the moment.
