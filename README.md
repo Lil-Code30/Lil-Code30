@@ -16,7 +16,7 @@
 
 
 ## 🧰 Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,tailwind,nextjs,nodejs,express,mongodb,postgres,git,cs,dotnet)](https://skillicons.dev)
 
 ## 📟 GitHub Stats
 
