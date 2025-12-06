@@ -7,7 +7,7 @@
 <p align="center">Learning, Building, and making cool web stuff on <a href="https://www.youtube.com/@licode30" target="_blank">YouTube</a> and <a href="https://www.twitch.tv/dereal_ismael" target="_blank">Twitch</a>.</p>
 
 ## 💫 About Me:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Code+Explorer;Streamer+;cs+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Code+Explorer;Streamer+;CS+Student;OSS+GG" alt="Typing SVG" /></a>
 <br/>
 🚀 I love turning ideas into functional systems.
 <p>💻 All my projects here : <a href="https://ismael-projects-page.vercel.app/" target="_blank">Ismael's Project Page.</a></p>
