@@ -31,15 +31,15 @@
 
 ## 📟 GitHub Stats
 
-<!-- <br/>
-    <a href="https://github.com/Lil-Code30/github-readme-stats"><img alt="Ismael Loko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lil-Code30&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<div align="center">
+  <a href="https://github.com/Lil-Code30/github-readme-stats"><img alt="Ismael Loko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lil-Code30&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Lil-Code30/github-readme-stats"><img alt="Ismael Loko's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-Code30&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/> -->
-
-  
-<div align="center"><br/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lil-Code30&theme=transparent" alt="GitHub Streak" /></a>
 </div>
+  
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lil-Code30&theme=transparent" alt="GitHub Streak" /></a>
+</div><br/>
 
 ## 📫 Lets Connect 
 - ✉️ Email: lokoismael9@gmail.com
