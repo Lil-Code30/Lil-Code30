@@ -11,7 +11,7 @@
 <br/>
 🚀 I love turning ideas into functional systems.
 <p>💻 All my projects here : <a href="https://ismael-projects-page.vercel.app/" target="_blank">Ismael's Project Page.</a></p>
-<p>I am Documenting everything that I learned here : <a href="https://til-ochre.vercel.app/" target="_blank">Today I Learned.</a></p>
+<p>I am Documenting everything that I learned here : <a href="https://til-journal.vercel.app/" target="_blank">Today I Learned.</a></p>
 
 ## 🧠 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34C26?logo=html5&logoColor=white)
