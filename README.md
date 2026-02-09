@@ -32,6 +32,54 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
+## 🚀 Projects Showcase
+
+### 👨‍💻 Personal Projects
+
+| Project | Description | Repo |
+|--------|------------|-------------|
+| 💻 Indie Project Page| Central hub showcasing all my projects  | [Live](https://ismael-projects-page.vercel.app/) |
+| 📝 Today I Learned (TIL) | Daily journal documenting what I learn in tech | [Live](https://til-journal.vercel.app/) |
+| 📊 Ecom Dashboard | Modern dashboard for Ecom | [Repo](https://github.com/Lil-Code30/dripOndrip-dashboard) |
+| 🛍️ DripOnDrip | Fullstack Ecom website | [Repo](https://github.com/Lil-Code30/drip-on-drip_e-com) |
+| 🎬 Cine Verse | Browse movies, create a personal watchlist | [Repo](https://github.com/Lil-Code30/cine-verse) |
+| 💭 DevQuotes  | Discover, share, and collect your favorite quotes. | [Repo](https://github.com/Lil-Code30/dev-quotes_frontend) |
+| ⛅ Weather App  | Simple weather web app | [Repo](https://github.com/Lil-Code30/weather_app) |
+| ✅ To-Do List | To-Do List web app | [Repo](https://github.com/Lil-Code30/to-do-App) |
+| 📚 eLibrary   | Virtual library for book management | [Repo](https://github.com/Lil-Code30/eLibrary) |
+| 🎨 Random color kit  | npm package to generate random colors | [Repo](https://github.com/Lil-Code30/random-color-toolkit) |
+| 🗄️ Daily SQL Practice | My journey learning and practicing SQL | [Repo](https://github.com/Lil-Code30/daily-sql-practise) |
+| 🌈 CSS 30 Days Challenge | 30 mini UI components built daily | [Repo](https://github.com/Lil-Code30/30DaysOfCSS) |
+
+---
+
+### 🧪 DripCode Studio Projects
+> My Open Source Organization. Contact dripcodestudio@gmail.com for business. 😆[visit here](https://github.com/DripCode-Studio)
+
+| Project | Client / Context | Description | Repo |
+|--------|------------------|-------------|------------|
+| 👨🏾‍💻 Agency Website | DripCode Studio | Official website for the agency | [visit](https://dripcodestudio.com/) |
+| 🚸 AcadXP  | open source software | Transform Your Academic Journey into an Epic Adventure | [repo](https://github.com/acadxp/acadxp) |
+| 📦 Stocky  | open source software | An inventory management web application | [repo](https://github.com/DripCode-Studio/stocky) |
+| 🔎 DevKit  | open source software | Your Ultimate Developer Resource Hub | [repo](https://github.com/DevKit-Org/devkit) |
+| 🎶 Dimmer - Landing page  | client | Dimmer is a hybrid music player | [repo](https://dimmer-maui.vercel.app/) |
+| 🍲 AfroChef  | case study | A modern recipe management platform celebrating African cuisine | [repo](https://github.com/DripCode-Studio/afro-chef) |
+| 📉 LedgerYear  | case study | A comprehensive expense tracking SaaS application | [repo](https://github.com/DripCode-Studio/ledger-year) |
+
+---
+
+### 🎓 School & Academic Projects
+
+| Project | Course | Description | Repo |
+|--------|--------|-------------|------------|
+| 📥 Inventory Manager | Bases de données I | Inventory web app managment for a PME  | coming soon...|
+| 🌾 Wheat Grain Classifier | Programmation orientée objet II | Console app that automatically classifies wheat grains  |[repo](https://github.com/Lil-Code30/WheatGrainClassifier)|
+| 💬 UDP Chat | Téléinformatique | simple udp chat with python sockets |[repo](https://github.com/Lil-Code30/lab_python_udp)|
+| 🧁 Cake Craft | Introduction à l’internet | Website for Cake Customization and Ordering |[repo](https://github.com/Lil-Code30/CakeCraft)|
+| 🃏 UNO | Programmation orientée objet I | Console App UNO Game |[repo](https://github.com/Lil-Code30/uno-game)|
+| 👤 Personal Portfolio | Introduction à l’internet | Portfolio for 2 students in one |[repo](https://github.com/Lil-Code30/porfolio-personnel)|
+
+
 ## 📟 GitHub Stats
 
 <br/>
