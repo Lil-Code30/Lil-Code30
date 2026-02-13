@@ -72,7 +72,8 @@
 
 | Project | Course | Description | Repo |
 |--------|--------|-------------|------------|
-| 📥 Inventory Manager | Bases de données I | Inventory web app managment for a PME  | coming soon...|
+| 📷 Webcam Streaming | Téléinformatique | Webcam video stream btw 02 computers  | [repo](https://github.com/Lil-Code30/lab_python_WebRTC)|
+| 📥 Inventory Manager | Bases de données I | Inventory web app managment for a small business  | coming soon...|
 | 🌾 Wheat Grain Classifier | Programmation orientée objet II | Console app that automatically classifies wheat grains  |[repo](https://github.com/Lil-Code30/WheatGrainClassifier)|
 | 💬 UDP Chat | Téléinformatique | simple udp chat with python sockets |[repo](https://github.com/Lil-Code30/lab_python_udp)|
 | 🧁 Cake Craft | Introduction à l’internet | Website for Cake Customization and Ordering |[repo](https://github.com/Lil-Code30/CakeCraft)|
