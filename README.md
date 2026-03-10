@@ -10,8 +10,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Code+Explorer;Streamer+;CS+Student;OSS+GG" alt="Typing SVG" /></a>
 <br/>
 🚀 I love turning ideas into functional systems.
-<p>💻 All my projects here : <a href="https://ismael-projects-page.vercel.app/" target="_blank">Ismael's Project Page.</a></p>
-<p>I am Documenting everything that I learned here : <a href="https://til-journal.vercel.app/" target="_blank">Today I Learned.</a></p>
+<p>💻 You can see all projects i have ever build here at <a href="https://ismael-projects-page.vercel.app/" target="_blank">Ismael's Project Page.</a></p>
+<p>I am currently documenting everything that I learned here : <a href="https://til-journal.vercel.app/" target="_blank">Today I Learned.</a> and also a running log of things I'm learning to build a strong core software engineering skills. <a href="https://github.com/Lil-Code30/learning" target="_blank">Check it here</a>.</p>
+<p>All My Academic projects are manage here : <a href="https://github.com/cs-bachelor-journey" target="_blank">CS Bachelor Journey.</a></p>
 
 ## 🧠 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34C26?logo=html5&logoColor=white)
@@ -71,15 +72,7 @@
 
 ### 🎓 School & Academic Projects
 
-| Project | Course | Description | Repo |
-|--------|--------|-------------|------------|
-| 📷 Webcam Streaming | Téléinformatique | Webcam video stream btw 02 computers  | [repo](https://github.com/Lil-Code30/lab_python_WebRTC)|
-| 📥 Inventory Manager | Bases de données I | Inventory web app managment for a small business  | coming soon...|
-| 🌾 Wheat Grain Classifier | Programmation orientée objet II | Console app that automatically classifies wheat grains  |[repo](https://github.com/Lil-Code30/WheatGrainClassifier)|
-| 💬 UDP Chat | Téléinformatique | simple udp chat with python sockets |[repo](https://github.com/Lil-Code30/lab_python_udp)|
-| 🧁 Cake Craft | Introduction à l’internet | Website for Cake Customization and Ordering |[repo](https://github.com/Lil-Code30/CakeCraft)|
-| 🃏 UNO | Programmation orientée objet I | Console App UNO Game |[repo](https://github.com/Lil-Code30/uno-game)|
-| 👤 Personal Portfolio | Introduction à l’internet | Portfolio for 2 students in one |[repo](https://github.com/Lil-Code30/porfolio-personnel)|
+All My Academic projects are manage here [CS Bachelor Journey](https://github.com/cs-bachelor-journey)
 
 
 ## 📟 GitHub Stats
