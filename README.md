@@ -50,7 +50,6 @@
 | 📚 eLibrary   | Virtual library for book management | [Repo](https://github.com/Lil-Code30/eLibrary) |
 | 🎨 Random color kit  | npm package to generate random colors | [Repo](https://github.com/Lil-Code30/random-color-toolkit) |
 | 🗂️ Northwind Database | 50 Northwind Database Practice Queries | [Repo](https://github.com/Lil-Code30/northwind_db) |
-| 🗄️ Daily SQL Practice | My journey learning and practicing SQL | [Repo](https://github.com/Lil-Code30/daily-sql-practise) |
 | 🌈 CSS 30 Days Challenge | 30 mini UI components built daily | [Repo](https://github.com/Lil-Code30/30DaysOfCSS) |
 
 ---
