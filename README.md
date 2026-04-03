@@ -41,6 +41,7 @@
 |--------|------------|-------------|
 | 💻 Indie Project Page| Central hub showcasing all my projects  | [Live](https://ismael-projects-page.vercel.app/) |
 | 📝 Today I Learned (TIL) | Daily journal documenting what I learn in tech | [Live](https://til-journal.vercel.app/) |
+| 👔 Job Hunt | A Linear-inspired job application tracker | [Repo](https://github.com/Lil-Code30/job-hunt) |
 | 📊 Ecom Dashboard | Modern dashboard for Ecom | [Repo](https://github.com/Lil-Code30/dripOndrip-dashboard) |
 | 🛍️ DripOnDrip | Fullstack Ecom website | [Repo](https://github.com/Lil-Code30/drip-on-drip_e-com) |
 | 🎬 Cine Verse | Browse movies, create a personal watchlist | [Repo](https://github.com/Lil-Code30/cine-verse) |
