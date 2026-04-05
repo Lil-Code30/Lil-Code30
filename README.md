@@ -41,7 +41,7 @@
 |--------|------------|-------------|
 | 💻 Indie Project Page| Central hub showcasing all my projects  | [Live](https://ismael-projects-page.vercel.app/) |
 | 📝 Today I Learned (TIL) | Daily journal documenting what I learn in tech | [Live](https://til-journal.vercel.app/) |
-| 👔 Job Hunt | A Linear-inspired job application tracker | [Repo](https://github.com/Lil-Code30/job-hunt) |
+| 👔 Job Hunt | [vibecoding] A Linear-inspired job application tracker | [Repo](https://github.com/Lil-Code30/job-hunt) |
 | 📊 Ecom Dashboard | Modern dashboard for Ecom | [Repo](https://github.com/Lil-Code30/dripOndrip-dashboard) |
 | 🛍️ DripOnDrip | Fullstack Ecom website | [Repo](https://github.com/Lil-Code30/drip-on-drip_e-com) |
 | 🎬 Cine Verse | Browse movies, create a personal watchlist | [Repo](https://github.com/Lil-Code30/cine-verse) |
@@ -52,22 +52,6 @@
 | 🎨 Random color kit  | npm package to generate random colors | [Repo](https://github.com/Lil-Code30/random-color-toolkit) |
 | 🗂️ Northwind Database | 50 Northwind Database Practice Queries | [Repo](https://github.com/Lil-Code30/northwind_db) |
 | 🌈 CSS 30 Days Challenge | 30 mini UI components built daily | [Repo](https://github.com/Lil-Code30/30DaysOfCSS) |
-
----
-
-### 🧪 DripCode Studio Projects
-> My Open Source Organization. Contact dripcodestudio@gmail.com for business. 😆[visit here](https://github.com/DripCode-Studio)
-
-| Project | Client / Context | Description | Repo |
-|--------|------------------|-------------|------------|
-| 👨🏾‍💻 Agency Website | DripCode Studio | Official website for the agency | [visit](https://dripcodestudio.com/) |
-| 🚸 AcadXP  | open source software | Transform Your Academic Journey into an Epic Adventure | [repo](https://github.com/acadxp/acadxp) |
-| 📦 Stocky  | open source software | An inventory management web application | [repo](https://github.com/DripCode-Studio/stocky) |
-| 🔎 DevKit  | open source software | Your Ultimate Developer Resource Hub | [repo](https://github.com/DevKit-Org/devkit) |
-| 🎶 Dimmer - Landing page  | client | Dimmer is a hybrid music player | [repo](https://dimmer-maui.vercel.app/) |
-| 👔 THEHØØDX Store  | client | Clothing Brand | [repo](https://thehoodx.vercel.app/) |
-| 🍲 AfroChef  | case study | A modern recipe management platform celebrating African cuisine | [repo](https://github.com/DripCode-Studio/afro-chef) |
-| 📉 LedgerYear  | case study | A comprehensive expense tracking SaaS application | [repo](https://github.com/DripCode-Studio/ledger-year) |
 
 ---
 
