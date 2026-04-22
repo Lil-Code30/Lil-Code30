@@ -9,10 +9,16 @@
 ## 💫 About Me:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Code+Explorer;Streamer+;CS+Student;OSS+GG" alt="Typing SVG" /></a>
 <br/>
-🚀 I love turning ideas into functional systems.
-<p>💻 You can see all projects i have ever build here at <a href="https://ismael-projects-page.vercel.app/" target="_blank">Ismael's Project Page.</a></p>
-<p>I am currently documenting everything that I learned here : <a href="https://til-journal.vercel.app/" target="_blank">Today I Learned.</a> and also a running log of things I'm learning to build a strong core software engineering skills. <a href="https://github.com/Lil-Code30/learning" target="_blank">Check it here</a>.</p>
-<p>All My Academic projects are manage here : <a href="https://github.com/cs-bachelor-journey" target="_blank">CS Bachelor Journey.</a></p>
+
+> 🎓 I’m currently studying Computer Science, focusing on Software Engineering and Computer Security.
+
+💻 I build full-stack applications with an emphasis on clean, scalable, and maintainable systems. 
+
+🧪 I also try to transform my projects into structured learning labs to help others practice and understand concepts here at [🥷 CodeNoJutsu Lab](https://github.com/CodeNoJutsu-Lab). In my free time, I create and share roadmaps focused on Backend Development and DevOps [🚀 10x Backend Engineer](https://github.com/10x-Backend-Engineer). 
+
+- 🎓 All my academic projects are managed here: [CS bachelor journey Org](https://github.com/cs-bachelor-journey)
+- 🌐 You can explore all my projects here: [Indie Project Page](https://ismael-projects-page.vercel.app/)
+
 
 ## 🧠 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34C26?logo=html5&logoColor=white)
