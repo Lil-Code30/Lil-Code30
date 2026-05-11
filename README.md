@@ -10,14 +10,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Code+Explorer;Streamer+;CS+Student;OSS+GG" alt="Typing SVG" /></a>
 <br/>
 
-> 🎓 I’m currently studying Computer Science, focusing on Software Engineering and Computer Security.
+I’m currently a cs student @ ULaval focusing on Software Engineering and Computer Security, I’m a passionate Full Stack Developer focused on building modern, scalable, and high-performance web applications.
 
-💻 I build full-stack applications with an emphasis on clean, scalable, and maintainable systems. 
+I enjoy turning ideas into real-world projects through clean UI design, problem solving, and continuous learning. My current journey revolves around the PERN stack, React ecosystem, backend development, APIs, software architecture and cloud computing while documenting my growth publicly through content creation and live coding.
 
-🧪 I also try to transform my projects into structured learning labs to help others practice and understand concepts here at [🥷 CodeNoJutsu Lab](https://github.com/CodeNoJutsu-Lab). In my free time, I create and share roadmaps focused on Backend Development and DevOps [🚀 10x Backend Engineer](https://github.com/10x-Backend-Engineer). 
+Beyond coding, I’m passionate about sharing my developer journey, building in public, exploring new technologies, and constantly improving my skills in software engineering, UI/UX, and digital creation.
 
-- 🎓 All my academic projects are managed here: [CS bachelor journey Org](https://github.com/cs-bachelor-journey)
-- 🌐 You can explore all my projects here: [Indie Project Page](https://ismael-projects-page.vercel.app/)
+> Currently learning: Java, Angular, GenAI, Cloud Computing.
+
+- I build modern websites, web apps, and open-source projects under [DripCode Studio](https://www.dripcodestudio.com/).
+- 🌐 You can explore all my projects here: [Indie Project Page](https://ismael-projects-page.vercel.app/).
 
 
 ## 🧠 Tech Stack
@@ -63,7 +65,7 @@
 
 ### 🎓 School & Academic Projects
 
-All My Academic projects are manage here [CS Bachelor Journey](https://github.com/cs-bachelor-journey)
+- All My Academic projects are manage here : [CS Bachelor Journey](https://github.com/cs-bachelor-journey)
 
 
 ## 📟 GitHub Stats
