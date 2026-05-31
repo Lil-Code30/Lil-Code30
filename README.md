@@ -21,6 +21,9 @@ Beyond coding, I’m passionate about sharing my developer journey, building in 
 - I build modern websites, web apps, and open-source projects under [DripCode Studio](https://www.dripcodestudio.com/).
 - 🌐 You can explore all my projects here: [Indie Project Page](https://ismael-projects-page.vercel.app/).
 
+### 🎓 School & Academic Projects
+
+- All My Academic projects are manage here : [CS Bachelor Journey](https://github.com/cs-bachelor-journey)
 
 ## 🧠 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34C26?logo=html5&logoColor=white)
@@ -41,9 +44,9 @@ Beyond coding, I’m passionate about sharing my developer journey, building in 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-## 🚀 Projects Showcase
+---
 
-### 👨‍💻 Personal Projects
+## 🚀 Projects Showcase
 
 | Project | Description | Repo |
 |--------|------------|-------------|
@@ -60,13 +63,6 @@ Beyond coding, I’m passionate about sharing my developer journey, building in 
 | 🎨 Random color kit  | npm package to generate random colors | [Repo](https://github.com/Lil-Code30/random-color-toolkit) |
 | 🗂️ Northwind Database | 50 Northwind Database Practice Queries | [Repo](https://github.com/Lil-Code30/northwind_db) |
 | 🌈 CSS 30 Days Challenge | 30 mini UI components built daily | [Repo](https://github.com/Lil-Code30/30DaysOfCSS) |
-
----
-
-### 🎓 School & Academic Projects
-
-- All My Academic projects are manage here : [CS Bachelor Journey](https://github.com/cs-bachelor-journey)
-
 
 ## 📟 GitHub Stats
 
