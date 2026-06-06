@@ -52,6 +52,7 @@ Beyond coding, I’m passionate about sharing my developer journey, building in 
 |--------|------------|-------------|
 | 💻 Indie Project Page| Central hub showcasing all my projects  | [Live](https://ismael-projects-page.vercel.app/) |
 | 📝 Today I Learned (TIL) | Daily journal documenting what I learn in tech | [Live](https://til-journal.vercel.app/) |
+| 🦊 TicketFox | A structured IT knowledge OS  | [Repo](https://github.com/Lil-Code30/ticketfox) |
 | 👔 Job Hunt | [vibecoding] A Linear-inspired job application tracker | [Repo](https://github.com/Lil-Code30/job-hunt) |
 | 📊 Ecom Dashboard | Modern dashboard for Ecom | [Repo](https://github.com/Lil-Code30/dripOndrip-dashboard) |
 | 🛍️ DripOnDrip | Fullstack Ecom website | [Repo](https://github.com/Lil-Code30/drip-on-drip_e-com) |
