@@ -44,6 +44,7 @@ Beyond coding, I’m passionate about sharing my developer journey, building in 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 
 ---
 
@@ -52,6 +53,7 @@ Beyond coding, I’m passionate about sharing my developer journey, building in 
 | Project | Description | Repo |
 |--------|------------|-------------|
 | 💻 Indie Project Page| Central hub showcasing all my projects  | [Live](https://ismael-projects-page.vercel.app/) |
+| 📋 Task Manager | A modern RESTful Task Management API | [repo](https://github.com/Lil-Code30/taskmanager-api) |
 | 🧰 DevKit | Your Ultimate Developer Resource Hub | [Live](https://devkit.dripcodestudio.com/) |
 | 🏫 AcadXP | Transform Your Academic Journey into an Epic Adventure | [Live](https://acadxp.vercel.app/) |
 | 📝 Today I Learned (TIL) | Daily journal documenting what I learn in tech | [Live](https://til-journal.vercel.app/) |
